@@ -23,8 +23,8 @@ Here are some of the technologies and tools I work with:
   - Java
   
 - **Frameworks & Libraries:**
-  - Spring 
-  - Node.js
+  - Spring framework
+  - Vue.js
   - Django
   
 - **Tools:**
