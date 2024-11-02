@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Eswara!
 
-Welcome to my GitHub profile! I'm a Software Professional based in Bangalore. Passionate about Body, Breath and Benevolence, 
-and I'm always eager to learn more and collaborate on learning projects.
+Welcome to my GitHub profile! I'm a Software Professional based out of India. Passionate about Breath, Body and Benevolence, 
+Eager to contribute and collaborate on learning projects.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Microservices Application based on Spring Boot, VueJS, Rest API and MongoDB.
+- 🔭 I am currently developing a microservices application using Spring Boot, Vue.js, RESTful APIs, and MongoDB.
 - 🌱 I’m learning Frond end technologies
 - 👯 I’m looking to collaborate on Solution Architecture documentation
 - 🤔 I’m looking for help with getting certified as multi-cloud architect.
